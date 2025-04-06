@@ -1,0 +1,16 @@
+.json-key.clickable:hover {
+    text-decoration: underline;
+}
+
+.json-key.clickable {
+    color: #4d90fe;
+    cursor: pointer;
+}
+
+.json-key.unclickable {
+    cursor: default;
+}
+
+.json-value {
+    color: #444444;
+}
